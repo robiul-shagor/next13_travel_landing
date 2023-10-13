@@ -1,7 +1,7 @@
 # Travel page with React.js, Next.js 13, Tailwind CSS
 
 ## Demo URL - 
-[link](https://travelapps1.netlify.app/) 
+[https://travelapps1.netlify.app/](https://travelapps1.netlify.app/) 
 
 ## Introduction
 If you’ve ever struggled with creating a sleek UI that also performs flawlessly, you're not alone.
