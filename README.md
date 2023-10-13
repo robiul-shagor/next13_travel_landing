@@ -1,4 +1,4 @@
-# Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS
+# Travel page with React.js, Next.js 13, Tailwind CSS
 
 ## Demo URL - () 
 
